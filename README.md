@@ -1,5 +1,7 @@
 # Extended content element "downloads" for Contao Open Source CMS
 
+Developed by Julian Knorr.
+
 ## Synopsis
 
 This is an extension for the Contao Open Source CMS.
@@ -27,3 +29,7 @@ After installation this extension is usable without any further configuration.
 ## Troubleshooting
 
 Directly here on GitHub.
+
+## License
+
+This extension is licensed under the terms of the MIT License. See [LICENSE](LICENSE).
